@@ -8,4 +8,4 @@ https://www.figma.com/design/DZ4zy8MGhdIsKiXXGpJbEq/Weeb?m=auto&t=7bJ5DiF2LMOFv9
 
 https://www.youtube.com/live/TuIxnEoEw1M?si=pYpUvpk-kgoFEATp - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA. Частина №2
 
-https://www.youtube.com/live/TuIxnEoEw1M?si=F0C8oXjSMS19ZrA0&t=3826 - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA. Частина №2.Продолжение
+https://www.youtube.com/live/TuIxnEoEw1M?si=x8u6CPPh_dK_0v2S&t=4231 - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA. Частина №2.Продолжение
